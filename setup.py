@@ -17,9 +17,9 @@ setup(
                           'gymnasium == 0.29.0', 
                           'numpy',
                           'cairosvg', 
-                          'opencv-python', 
                           'minigrid == 2.3.0', 
                           'tk',
+                          'opencv-python-headless',
                           'ipympl'
                           ],
         classifiers=[
